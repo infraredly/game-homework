@@ -1,0 +1,29 @@
+﻿# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+Build/
+Builds/
+[Ll]ogs/
+
+# User-specific files
+userprefs/
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# macOS-specific files
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Unity3D generated meta files
+*.pidb
+*.suo
+*.user
+*.userprefs
